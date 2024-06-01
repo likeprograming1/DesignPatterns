@@ -5,3 +5,5 @@
 ### [ep1. Singleton Pattern](https://github.com/likeprograming1/DesignPatterns/tree/main/SingletonPattern)
 
 ### [ep2. Proxy Pattern](https://github.com/likeprograming1/DesignPatterns/tree/main/ProxyPattern)
+
+### [ep3. Provider Pattern](https://github.com/likeprograming1/DesignPatterns/tree/main/ProviderPattern)
