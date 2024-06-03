@@ -10,4 +10,4 @@
 
 ### [ep4. ProtoType Pattern](https://github.com/likeprograming1/DesignPatterns/tree/main/ProtoTypePattern)
 
-출철 : https://patterns-dev-kr.github.io/design-patterns/prototype-pattern/
+출처 : https://patterns-dev-kr.github.io/design-patterns/prototype-pattern/
