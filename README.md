@@ -12,4 +12,6 @@
 
 ### [ep5. Container/Presentational Pattern](https://github.com/likeprograming1/DesignPatterns/tree/main/Container%26PresentationalPattern)
 
+### [ep6. Observer Pattern](https://github.com/likeprograming1/DesignPatterns/tree/main/ObserverPattern)
+
 출처 : https://patterns-dev-kr.github.io/design-patterns/prototype-pattern/
