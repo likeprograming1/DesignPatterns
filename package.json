@@ -1,5 +1,8 @@
 {
+  "name": "design-pattern-study",
+  "version": "1.0.0",
   "dependencies": {
     "node": "^20.14.0"
-  }
+  },
+  "type": "module"
 }

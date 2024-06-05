@@ -14,4 +14,6 @@
 
 ### [ep6. Observer Pattern](https://github.com/likeprograming1/DesignPatterns/tree/main/ObserverPattern)
 
+### [ep7. Module Pattern](https://github.com/likeprograming1/DesignPatterns/tree/main/ModulePattern)
+
 출처 : https://patterns-dev-kr.github.io/design-patterns/prototype-pattern/
