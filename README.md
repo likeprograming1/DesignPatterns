@@ -16,4 +16,6 @@
 
 ### [ep7. Module Pattern](https://github.com/likeprograming1/DesignPatterns/tree/main/ModulePattern)
 
+### [ep8. Mixin Pattern](https://github.com/likeprograming1/DesignPatterns/tree/main/MixinPattern)
+
 출처 : https://patterns-dev-kr.github.io/design-patterns/prototype-pattern/
