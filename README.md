@@ -20,4 +20,6 @@
 
 ### [ep9. Mediator&Middleware Pattern](https://github.com/likeprograming1/DesignPatterns/tree/main/Mediator%26MiddlewarePattern)
 
+### [ep10. Hoc Pattern](https://github.com/likeprograming1/DesignPatterns/tree/main/HocPattern)
+
 출처 : https://patterns-dev-kr.github.io/design-patterns/prototype-pattern/
