@@ -22,4 +22,6 @@
 
 ### [ep10. Hoc Pattern](https://github.com/likeprograming1/DesignPatterns/tree/main/HocPattern)
 
+### [ep10. Render Pattern](https://github.com/likeprograming1/DesignPatterns/tree/main/RenderPattern)
+
 출처 : https://patterns-dev-kr.github.io/design-patterns/prototype-pattern/
