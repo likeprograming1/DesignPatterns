@@ -22,10 +22,10 @@
 
 ### [ep10. Hoc Pattern](https://github.com/likeprograming1/DesignPatterns/tree/main/HocPattern)
 
-<<<<<<< HEAD
-### [ep10. Hooks Pattern](https://github.com/likeprograming1/DesignPatterns/tree/main/HooksPattern)
-=======
 ### [ep10. Render Pattern](https://github.com/likeprograming1/DesignPatterns/tree/main/RenderPattern)
->>>>>>> fe78ab527ea94f0cf4198be0c3096c2a86a572d5
+
+### [ep11. Hooks Pattern](https://github.com/likeprograming1/DesignPatterns/tree/main/HooksPattern)
+
+### [ep12. Flyweight Pattern](https://github.com/likeprograming1/DesignPatterns/tree/main/FlyweightPattern)
 
 출처 : https://patterns-dev-kr.github.io/design-patterns/prototype-pattern/
