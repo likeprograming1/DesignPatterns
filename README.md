@@ -28,4 +28,6 @@
 
 ### [ep12. Flyweight Pattern](https://github.com/likeprograming1/DesignPatterns/tree/main/FlyweightPattern)
 
+### [ep13. Factory Pattern](https://github.com/likeprograming1/DesignPatterns/tree/main/FactoryPattern)
+
 출처 : https://patterns-dev-kr.github.io/design-patterns/prototype-pattern/
